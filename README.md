@@ -1,6 +1,8 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
+![Screenshot 2025-01-20 082814-Photoroom](https://github.com/user-attachments/assets/b3300636-0bfd-47ac-b66e-a328450c55c7)
+![Screenshot 2025-01-20 082759-Photoroom](https://github.com/user-attachments/assets/71eab304-34cc-486c-9eee-e1c66a527901)
+![Screenshot 2025-01-20 082741-Photoroom](https://github.com/user-attachments/assets/c71a7907-f7f7-4bdc-95f5-c9b5dc1ba112)
 
 ### Data Analysis Using SQL
 
